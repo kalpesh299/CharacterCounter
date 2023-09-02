@@ -9,6 +9,7 @@
 - We can type only no of predefined characters.
 - Responsive design for desktop devices.
 - Minimalistic and user-friendly interface.
+- Responsiveness: While this static webpage doesn't currently employ media queries for responsiveness, it's an area I intend to explore in the future. Adding responsive features would make the page accessible on various devices, such as phones, tablets, and smaller screens.
 
 # Hosted Link:
 https://kalpesh299.github.io/CharacterCounter/textCounter.html
